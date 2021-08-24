@@ -8,5 +8,6 @@ def fibonacci(num):
     else:
         return fibonacci(num-1) + fibonacci(num-2)
 
-x = fibonacci(3)
-print(x)
+while 1:
+    zero = 0
+    
